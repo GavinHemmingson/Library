@@ -1,0 +1,49 @@
+/* body
+{
+
+    display: flex;
+    flex-direction: column;
+}
+.new
+{
+    background-color: blanchedalmond;
+    display: flex;
+    font-size: large;
+    padding-left: 1em;
+    padding-top: 1em;
+    padding-bottom: 0;
+    border-radius: 2em;
+    align-self: left;
+    align-items: center;
+    white-space: pre;
+    flex-grow: 1;
+    border: 1px solid black;
+    overflow: hidden;
+}
+form
+{
+    display: flex;
+    flex-direction: column;
+}
+.remove
+{   display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 7em;
+    height: 2em;
+} */
+
+body
+{
+    display:flex;
+}
+.bookInfo
+{
+    white-space: pre;
+}
+
+.container
+{
+    display: flex;
+    flex-direction: column;
+}
